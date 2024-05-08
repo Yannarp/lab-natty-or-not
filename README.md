@@ -1,51 +1,28 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# IAs Generativas: Natural ou Fake Natty
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesse projeto foi elaborado um texto sobre o tema o impacto das Inteligência Artificial (IAs) no mundo atual,
+salientando que  embora as IAs tenham um potencial incrível, elas também apresentam desafios. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ * [Microsoft Copilot](https://www.bing.com/chat) criação do texto gerado;
+ * [Vidnoz IA](https://aiapp-pt.vidnoz.com/) produção do vídeo com avatar virtual;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Este projeto foi criado usando tecnologia de inteligência artificial (IA) e ferramentas de criação de conteúdo. Usamos o modelo de linguagem autêntico do Microsoft Copilot para criar conceitos de texto e história. O vídeo foi criado pela Vidnoz AI, que usou avatares virtuais para transformar texto em vídeo animado. Esses avatares podem ser personalizados de acordo com o conteúdo e a mensagem desejada, adicionando uma dimensão visual única aos seus projetos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O processo de criação de conteúdo usando ferramentas de IA de última geração é uma forma criativa e eficaz de criar ativos digitais,
+resultando em um conteúdo multimídia confiável e de alta qualidade. 
+
+<div align="height" dir="auto">
+<video height="170" src="https://github.com/Yannarp/YannaRP/assets/81976280/6b043aa2-5ab9-4ea7-840b-6800e55bad22" style="max-width: 100%;" >
+</div>
+
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Ao utilizar IA no projeto, foi fundamental para aprender sobre os conceitos fundamentais da IA, como ela funciona, e como pode ser aplicada em várias atividades de aprendizado.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
