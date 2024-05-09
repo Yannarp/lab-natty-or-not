@@ -22,7 +22,7 @@ resultando em um conteúdo multimídia confiável e de alta qualidade.
 
 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Ao utilizar IA no projeto, foi fundamental para aprender sobre os conceitos fundamentais da IA, como ela funciona, e como pode ser aplicada em várias atividades de aprendizado.
 
 
